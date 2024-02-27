@@ -1,2 +1,2 @@
-# mmpc
-attention mechanism for RS object detection
+# MMPC
+MMPC is an attention mechanism for RS object detection
